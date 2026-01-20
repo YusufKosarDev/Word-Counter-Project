@@ -23,3 +23,5 @@ The app analyzes user input and updates counts instantly:
 - Regex for splitting and basic sentence detection.
 - Efficient DOM updates and minimal UI state management.
 - How to present useful text analytics in a small, self-contained project.
+
+  Live Demo: https://yusufkosardev.github.io/Word-Counter-Project/
