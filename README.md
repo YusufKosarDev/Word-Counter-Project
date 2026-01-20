@@ -24,4 +24,4 @@ The app analyzes user input and updates counts instantly:
 - Efficient DOM updates and minimal UI state management.
 - How to present useful text analytics in a small, self-contained project.
 
-  Live Demo: https://yusufkosardev.github.io/Word-Counter-Project/
+  🚀Live Demo: https://yusufkosardev.github.io/Word-Counter-Project/
